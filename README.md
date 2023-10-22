@@ -6,4 +6,4 @@
 
 > 1 скрин - любая атака, 2 скрин - любой покемон
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF70&lines=ИТМО+-+институт+тёплых+мужских+отношений)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=ИТМО+-+институт+тёплых+мужских+отношений)](https://git.io/typing-svg)
