@@ -1,5 +1,5 @@
 # checker
-<img src="https://github.com/petrovviacheslav/myitmo/blob/main/materials/pokemons/pok_att.png" max-width=500px>
+<img src="https://github.com/petrovviacheslav/myitmo/blob/main/materials/pokemons/pok_att.png" max-width=200px>
 
 > 1 скрин - любая атака, 2 скрин - любой покемонввввв
 
