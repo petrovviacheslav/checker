@@ -1,16 +1,4 @@
-# checker
-dddd
-
-ddddd
-
-d
-ddddd
-
-
-
-ddddd
-
-
+# знаешь почему???)))
 dddd
 
 >ddhhej
